@@ -1,0 +1,166 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav img{
+    width: 100%;
+    height: 70px;
+}
+.select{
+    text-align: end;
+    background-color: #f7f6f2;
+}
+#english{
+    border:none;
+}
+.select button{
+    border:none;
+} 
+.two input{
+    align-content: end;
+    padding: 15px 70px;
+    border-radius: 7px;
+}
+
+
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float:left;
+    list-style: none;
+    margin:13px 16px;    
+}
+
+.im{
+ display: flex;
+  height: 80px;
+  gap: 20px;
+  margin-left: 20px;
+}
+.container{
+    display: flex;
+    width: 75%;
+    margin-top: 40px;
+    gap:20px;
+   
+}
+.im1 img{
+    height:500px;
+    width: 400px;
+   
+    margin-left: 5px;
+   
+}
+.container1{
+    display: flex;
+    width: 75%;
+    margin-top: 40px;
+    gap:20px;
+   
+}
+.im2 img{
+    height:500px;
+    width: 400px;
+    margin-left: 5px;
+}
+
+.container2{
+   margin-top: 30px;
+   padding: 20px;
+}
+.container2 img{
+    height:700px;
+    width:100%;
+   
+}
+.container3{
+    display: flex;
+    width: 90%;
+    margin-top: 40px;
+    gap:20px;
+   
+}
+.im3 img{
+    height:350px;
+    width: 400px;
+    margin-left: 5px;
+}
+.trending{
+   padding-left: 20px;
+   font-size: 25px;
+}
+.trending p{
+    height: 30px;
+    width:80%;
+}
+.container4{
+    display: flex;
+    width:100%;
+    gap:20px;
+    padding-left: 20px;
+
+}
+.im4 img{
+    height:300px;
+    width:230px;
+}
+.you{
+    padding-left: 20px;
+    font-size: 25px;
+    margin-top: 40px;
+ }
+ .you p{
+     height: 30px;
+     width:80%;
+ }
+
+.container5{
+    display: flex;
+    width:100%;
+    gap:20px;
+    padding-left: 20px;
+
+}
+.im5 img{
+    height:250px;
+    width:230px;
+}
+.you1{
+    padding-left: 20px;
+    font-size: 25px;
+    margin-top: 70px;
+ }
+ .you1 p{
+     height: 30px;
+     width:80%;
+     text-align: center;
+ }
+
+
+
+ .container6{
+    display: flex;
+    width: 90%;
+    margin-top: 40px;
+    gap:20px;
+    margin-bottom: 20px;
+   
+}
+.im6 img{
+    height:350px;
+    width: 400px;
+   
+}
+.Exclusions{
+   padding-left: 20px;
+   font-size: 25px;
+   margin-top: 60px;
+  
+}
+.Exclusions p{
+    height: 30px;
+    width:80%;
+    text-align: center;
+}
