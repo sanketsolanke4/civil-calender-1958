@@ -1,0 +1,53 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.center{
+    margin-top: 40px;;
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    padding: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  
+}
+.center h1{
+ text-align: center;
+
+}
+
+.center p{
+    text-align: center;
+}
+
+.txt input{
+    width:100%;
+    height:50px;
+}
+.txt{
+    cursor: pointer;
+   margin: 10px 0;
+}
+#e{
+    text-align: start;
+}
+
+.center button{
+    width:100%;
+    height:50px;
+    border:1px solid black;
+    background-color: #4b5666;
+    color:white;
+    cursor: pointer;
+    font-weight: 500px;
+}
+.center button:hover{
+    border-color: #4b5666 ;
+    transition: .5s;
+}
+ 
+.center input{
+    text-align: center;
+}
