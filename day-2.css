@@ -38,7 +38,11 @@
     list-style: none;
     margin:13px 16px;    
 }
-
+.navbar li a:hover{
+    text-decoration: underline;
+    color:teal;
+    cursor: pointer;
+}
 .im{
  display: flex;
   height: 80px;
@@ -201,6 +205,14 @@
     display: flex;
     justify-content: space-evenly;
 }
+.bottom-end a{
+    text-decoration: none;
+    color:#4b5666;
+}
+.bottom-end a:hover{
+    text-decoration: underline;
+}
+
 .location{
     padding-top: 80px;
     line-height: 40px;
@@ -209,7 +221,7 @@
 
 .store{
     width: 30%;
-    border: 1px solid red;
+  
     margin: auto;
     padding-top: 40px;
 }
